@@ -1,0 +1,1773 @@
+{
+  "type": "FeatureCollection",
+  "name": "信电学院",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#032a5e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#032a5e",
+        "fill-opacity": 1,
+        "adcode": 1,
+        "name": "底图",
+        "floor": 1,
+        "center": [114.592759, 36.656578],
+        "centroid": [114.596396, 36.655077],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "一楼底图"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.581573, 36.646512],
+            [114.668715, 36.646512],
+            [114.668775, 36.638447],
+            [114.669784, 36.638447],
+            [114.669784, 36.624816],
+            [114.654613, 36.624816],
+            [114.654613, 36.625643],
+            [114.598382, 36.625643],
+            [114.598382, 36.624048],
+            [114.597266, 36.624048],
+            [114.597266, 36.618589],
+            [114.60733, 36.618589],
+            [114.60733, 36.603001],
+            [114.597287, 36.603001],
+            [114.597287, 36.597523],
+            [114.598339, 36.597523],
+            [114.598339, 36.596043],
+            [114.642201, 36.596043],
+            [114.642201, 36.598314],
+            [114.663229, 36.598314],
+            [114.663229, 36.596043],
+            [114.669506, 36.596043],
+            [114.669506, 36.592425],
+            [114.671137, 36.592425],
+            [114.671137, 36.584086],
+            [114.669506, 36.584086],
+            [114.669506, 36.56682],
+            [114.646546, 36.56682],
+            [114.646546, 36.575057],
+            [114.581573, 36.575057],
+            [114.581573, 36.596043],
+            [114.589855, 36.596043],
+            [114.589855, 36.597523],
+            [114.590907, 36.597523],
+            [114.590907, 36.624048],
+            [114.589855, 36.624048],
+            [114.589855, 36.625643],
+            [114.581573, 36.625643],
+            [114.581573, 36.646512]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 101,
+        "name": "101 弱电进线间",
+        "floor": 150,
+        "center": [114.660777, 36.593043],
+        "centroid": [114.660777, 36.593043],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "101"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.657529, 36.595741],
+            [114.660619, 36.597137],
+            [114.661735, 36.597137],
+            [114.661735, 36.594087],
+            [114.668086, 36.594087],
+            [114.668086, 36.591159],
+            [114.657529, 36.591159],
+            [114.657529, 36.595741]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 102,
+        "name": "102 热表间",
+        "floor": 150,
+        "center": [114.664875, 36.590011],
+        "centroid": [114.664875, 36.590011],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "102"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.660222, 36.5909],
+            [114.668086, 36.5909],
+            [114.668086, 36.589263],
+            [114.660222, 36.589263],
+            [114.660222, 36.5909]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "北楼东边楼梯间",
+        "floor": 150,
+        "center": [114.664878, 36.588075],
+        "centroid": [114.664878, 36.588075],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "楼梯"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.660243, 36.589108],
+            [114.668086, 36.589108],
+            [114.668086, 36.586955],
+            [114.660243, 36.586955],
+            [114.660243, 36.589108]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 103,
+        "name": "103 QD",
+        "floor": 150,
+        "center": [114.658846, 36.588891],
+        "centroid": [114.658846, 36.588891],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "103"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.657561, 36.5909],
+            [114.659986, 36.5909],
+            [114.659986, 36.586955],
+            [114.657561, 36.586955],
+            [114.657561, 36.5909]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 104,
+        "name": "104 单片机实验室",
+        "floor": 150,
+        "center": [114.661356, 36.580758],
+        "centroid": [114.661356, 36.580758],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "104"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.6549, 36.584146],
+            [114.667131, 36.584146],
+            [114.667131, 36.576599],
+            [114.6549, 36.576599],
+            [114.6549, 36.584146]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 105,
+        "name": "105 运动控制实验室",
+        "floor": 150,
+        "center": [114.659017, 36.572539],
+        "centroid": [114.659017, 36.572539],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "105"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.647883, 36.57641],
+            [114.668054, 36.57641],
+            [114.668054, 36.568775],
+            [114.647883, 36.568775],
+            [114.647883, 36.57641]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 106,
+        "name": "106 配电室",
+        "floor": 150,
+        "center": [114.645692, 36.594301],
+        "centroid": [114.645692, 36.594301],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "106"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.643549, 36.597137],
+            [114.648334, 36.597137],
+            [114.648334, 36.591296],
+            [114.643549, 36.591296],
+            [114.643549, 36.597137]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 107,
+        "name": "107 传达室",
+        "floor": 150,
+        "center": [114.645864, 36.58927],
+        "centroid": [114.645864, 36.58927],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "107"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.643549, 36.591072],
+            [114.648334, 36.591072],
+            [114.648334, 36.586955],
+            [114.643549, 36.586955],
+            [114.643549, 36.591072]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 109,
+        "name": "109 电机拖动实验室",
+        "floor": 150,
+        "center": [114.634105, 36.590717],
+        "centroid": [114.634105, 36.590717],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "109"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.624733, 36.594087],
+
+            [114.643315, 36.594087],
+
+            [114.643315, 36.586955],
+
+            [114.624733, 36.586955],
+
+            [114.624733, 36.594087]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 108,
+        "name": "108 智能建筑实验室",
+        "floor": 150,
+        "center": [114.64492, 36.580448],
+        "centroid": [114.64492, 36.580448],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "108"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.638592, 36.584146],
+
+            [114.65094, 36.584146],
+
+            [114.65094, 36.576599],
+
+            [114.638592, 36.576599],
+
+            [114.638592, 36.584146]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 110,
+        "name": "110 智能配电实验室",
+        "floor": 150,
+        "center": [114.628934, 36.580517],
+        "centroid": [114.628934, 36.580517],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "110"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.620032, 36.584146],
+
+            [114.638335, 36.584146],
+
+            [114.638335, 36.576599],
+
+            [114.620032, 36.576599],
+
+            [114.620032, 36.584146]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 112,
+        "name": "112 供电技术实验室",
+        "floor": 150,
+        "center": [114.612497, 36.580534],
+        "centroid": [114.612497, 36.580534],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "112"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.605802, 36.584146],
+
+            [114.61975, 36.584146],
+
+            [114.61975, 36.576599],
+
+            [114.605802, 36.576599],
+
+            [114.605802, 36.584146]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 114,
+        "name": "114 新能源及控制技术实验室",
+        "floor": 150,
+        "center": [114.598614, 36.580827],
+        "centroid": [114.598614, 36.580827],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "114"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.591383, 36.584146],
+
+            [114.605652, 36.584146],
+
+            [114.605652, 36.576599],
+
+            [114.591383, 36.576599],
+
+            [114.591383, 36.584146]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 111,
+        "name": "111 传感器实验室",
+        "floor": 150,
+        "center": [114.617282, 36.590735],
+        "centroid": [114.617282, 36.590735],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "111"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.610319, 36.594087],
+
+            [114.62447, 36.594087],
+
+            [114.62447, 36.586955],
+
+            [114.610319, 36.586955],
+
+            [114.610319, 36.594087]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "北楼男侧",
+        "floor": 150,
+        "center": [114.60292, 36.59166],
+        "centroid": [114.60292, 36.59166],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "男侧"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.601021, 36.594087],
+
+            [114.60409, 36.594087],
+
+            [114.60409, 36.592728],
+
+            [114.605549, 36.592728],
+
+            [114.605549, 36.590213],
+
+            [114.601021, 36.590213],
+
+            [114.601021, 36.594087]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "北楼男洗手台",
+        "floor": 150,
+        "center": [114.602545, 36.588559],
+        "centroid": [114.602545, 36.588559],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "男洗手台"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.600979, 36.590028],
+
+            [114.604144, 36.590028],
+
+            [114.604144, 36.586955],
+
+            [114.600979, 36.586955],
+
+            [114.600979, 36.590028]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "北楼女厕",
+        "floor": 150,
+        "center": [114.607255, 36.593461],
+        "centroid": [114.607255, 36.593461],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "女厕"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.604369, 36.594087],
+
+            [114.610023, 36.594087],
+
+            [114.610023, 36.592677],
+
+            [114.605903, 36.592677],
+
+            [114.605903, 36.592927],
+
+            [114.604369, 36.592927],
+
+            [114.604369, 36.594087]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "北楼女洗手台",
+        "floor": 150,
+        "center": [114.608328, 36.591359],
+        "centroid": [114.608328, 36.591359],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "女洗手台"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.606536, 36.59247],
+
+            [114.610087, 36.59247],
+
+            [114.610087, 36.590196],
+
+            [114.606536, 36.590196],
+
+            [114.606536, 36.59247]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 113,
+        "name": "113",
+        "floor": 150,
+        "center": [114.609488, 36.588556],
+        "centroid": [114.609488, 36.588556],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "113"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.608995, 36.590037],
+
+            [114.610046, 36.590037],
+
+            [114.610046, 36.586955],
+
+            [114.608995, 36.586955],
+
+            [114.608995, 36.590037]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "北楼无障碍卫",
+        "floor": 150,
+        "center": [114.605626, 36.587935],
+        "centroid": [114.605626, 36.587935],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "无障碍卫"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.604403, 36.588935],
+
+            [114.606785, 36.588935],
+
+            [114.606785, 36.586955],
+
+            [114.604403, 36.586955],
+
+            [114.604403, 36.588935]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 115,
+        "name": "115 热表间",
+        "floor": 150,
+        "center": [114.599746, 36.592794],
+        "centroid": [114.599746, 36.592794],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "115"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.596828, 36.594087],
+
+            [114.600583, 36.594087],
+
+            [114.600583, 36.588693],
+
+            [114.598888, 36.588693],
+
+            [114.598888, 36.593121],
+
+            [114.596828, 36.593121],
+            [114.596828, 36.594087]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "北楼西楼梯",
+        "floor": 150,
+        "center": [114.597772, 36.591226],
+        "centroid": [114.597772, 36.591226],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "楼梯"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.596828, 36.59288],
+
+            [114.598566, 36.59288],
+
+            [114.598566, 36.588693],
+
+            [114.596828, 36.588693],
+
+            [114.596828, 36.59288]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 116,
+        "name": "116 分布式控制主控室",
+        "floor": 150,
+        "center": [114.593974, 36.590899],
+        "centroid": [114.593974, 36.590899],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "116"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.591292, 36.594087],
+
+            [114.596485, 36.594087],
+
+            [114.596485, 36.586955],
+
+            [114.591292, 36.586955],
+
+            [114.591292, 36.594087]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 116,
+        "name": "116 学生心理辅导室",
+        "floor": 150,
+        "center": [114.59376, 36.630566],
+        "centroid": [114.59376, 36.630566],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "117"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.591228, 36.634549],
+
+            [114.596506, 36.634549],
+
+            [114.596506, 36.627472],
+
+            [114.591228, 36.627472],
+
+            [114.591228, 36.634549]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "南楼西楼梯",
+        "floor": 150,
+        "center": [114.597622, 36.630893],
+        "centroid": [114.597622, 36.630893],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "楼梯"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.59685, 36.633235],
+
+            [114.598609, 36.633235],
+
+            [114.598609, 36.628861],
+
+            [114.59685, 36.628861],
+
+            [114.59685, 36.633235]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 119,
+        "name": "119 热表间",
+        "floor": 150,
+        "center": [114.599789, 36.629378],
+        "centroid": [114.599789, 36.629378],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "119"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.59891, 36.633235],
+
+            [114.600669, 36.633235],
+
+            [114.600669, 36.627472],
+
+            [114.596807, 36.627472],
+
+            [114.596807, 36.62862],
+
+            [114.59891, 36.62862],
+
+            [114.59891, 36.633235]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 121,
+        "name": "121 学院学生会办公室",
+        "floor": 150,
+        "center": [114.605562, 36.631014],
+        "centroid": [114.605562, 36.631014],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "121"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.60097, 36.634549],
+
+            [114.610368, 36.634549],
+
+            [114.610368, 36.627472],
+
+            [114.60097, 36.627472],
+
+            [114.60097, 36.634549]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 123,
+        "name": "123 预留专业教室",
+        "floor": 150,
+        "center": [114.617642, 36.630704],
+        "centroid": [114.617642, 36.630704],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "123"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.610583, 36.634549],
+
+            [114.624487, 36.634549],
+
+            [114.624487, 36.627472],
+
+            [114.610583, 36.627472],
+
+            [114.610583, 36.634549]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 124,
+        "name": "124 传达室",
+        "floor": 150,
+        "center": [114.627169, 36.632977],
+        "centroid": [114.627169, 36.632977],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "124"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.624745, 36.634549],
+
+            [114.629551, 36.634549],
+
+            [114.629551, 36.631169],
+
+            [114.624745, 36.631169],
+
+            [114.624745, 36.634549]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 125,
+        "name": "125 配电室",
+        "floor": 150,
+        "center": [114.627277, 36.629257],
+        "centroid": [114.627277, 36.629257],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "125"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.624723, 36.631014],
+
+            [114.629594, 36.631014],
+
+            [114.629594, 36.627472],
+
+            [114.624723, 36.627472],
+
+            [114.624723, 36.631014]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 128,
+        "name": "128 预留专业教室",
+        "floor": 150,
+        "center": [114.645387, 36.630928],
+        "centroid": [114.645387, 36.630928],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "128"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.638413, 36.634549],
+
+            [114.652725, 36.634549],
+
+            [114.652725, 36.627472],
+
+            [114.638413, 36.627472],
+
+            [114.638413, 36.634549]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 130,
+        "name": "130 预留专业教室",
+        "floor": 150,
+        "center": [114.660257, 36.631065],
+        "centroid": [114.660257, 36.631065],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "130"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.653047, 36.634549],
+
+            [114.667317, 36.634549],
+
+            [114.667317, 36.627472],
+
+            [114.653047, 36.627472],
+
+            [114.653047, 36.634549]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 131,
+        "name": "131 预留专业教室",
+        "floor": 150,
+        "center": [114.661416, 36.641001],
+        "centroid": [114.661416, 36.641001],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "131"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.6553, 36.64463],
+
+            [114.667188, 36.64463],
+
+            [114.667188, 36.637528],
+
+            [114.6553, 36.637528],
+
+            [114.6553, 36.64463]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 129,
+        "name": "129 预留专业教室",
+        "floor": 150,
+        "center": [114.64922, 36.641331],
+        "centroid": [114.64922, 36.641331],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "129"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.643405, 36.64463],
+
+            [114.654992, 36.64463],
+
+            [114.654992, 36.637528],
+
+            [114.643405, 36.637528],
+
+            [114.643405, 36.64463]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 127,
+        "name": "127 热表间",
+        "floor": 150,
+        "center": [114.641936, 36.642648],
+        "centroid": [114.641936, 36.642648],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "127"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.638588, 36.64463],
+
+            [114.64303, 36.64463],
+
+            [114.64303, 36.637528],
+
+            [114.641034, 36.637528],
+
+            [114.641034, 36.64363],
+
+            [114.638588, 36.64363],
+
+            [114.638588, 36.64463]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "南楼东楼梯",
+        "floor": 150,
+        "center": [114.639918, 36.640565],
+        "centroid": [114.639918, 36.640565],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "楼梯"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.638738, 36.643406],
+
+            [114.640777, 36.643406],
+
+            [114.640777, 36.637528],
+
+            [114.638738, 36.637528],
+
+            [114.638738, 36.643406]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 126,
+        "name": "126",
+        "floor": 150,
+        "center": [114.630971, 36.638103],
+        "centroid": [114.630971, 36.638103],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "126"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.629705, 36.63886],
+
+            [114.632258, 36.63886],
+
+            [114.632258, 36.637528],
+
+            [114.629705, 36.637528],
+
+            [114.629705, 36.63886]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 122,
+        "name": "122 预留专业教室",
+        "floor": 150,
+        "center": [114.622241, 36.641099],
+        "centroid": [114.622241, 36.641099],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "122"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.615246, 36.64463],
+
+            [114.629301, 36.64463],
+
+            [114.629301, 36.637528],
+
+            [114.615246, 36.637528],
+
+            [114.615246, 36.64463]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "南楼电梯",
+        "floor": 150,
+        "center": [114.630842, 36.641477],
+        "centroid": [114.630842, 36.641477],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "电梯"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.629726, 36.64463],
+
+            [114.632151, 36.64463],
+
+            [114.632151, 36.639101],
+
+            [114.629726, 36.639101],
+
+            [114.629726, 36.64463]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 120,
+        "name": "120 预留专业教室",
+        "floor": 150,
+        "center": [114.6078, 36.640926],
+        "centroid": [114.6078, 36.640926],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "120"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.600827, 36.64463],
+
+            [114.615053, 36.64463],
+
+            [114.615053, 36.637528],
+
+            [114.600827, 36.637528],
+
+            [114.600827, 36.64463]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "南楼男厕",
+        "floor": 150,
+        "center": [114.593467, 36.642717],
+        "centroid": [114.593467, 36.642717],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "男厕"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.5916, 36.64463],
+
+            [114.594711, 36.64463],
+
+            [114.594625, 36.643251],
+
+            [114.596127, 36.643251],
+
+            [114.596127, 36.640772],
+
+            [114.5916, 36.640772],
+
+            [114.5916, 36.64463]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "南楼男洗手台",
+        "floor": 150,
+        "center": [114.593123, 36.63905],
+        "centroid": [114.593123, 36.63905],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "男洗手台"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.591557, 36.640565],
+
+            [114.594711, 36.640565],
+
+            [114.594711, 36.637528],
+
+            [114.591557, 36.637528],
+
+            [114.591557, 36.640565]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "南楼女厕",
+        "floor": 150,
+        "center": [114.598102, 36.643922],
+        "centroid": [114.598102, 36.643922],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "女厕"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.594969, 36.64463],
+
+            [114.600655, 36.64463],
+
+            [114.600655, 36.643234],
+
+            [114.596471, 36.643234],
+
+            [114.596471, 36.643449],
+
+            [114.594969, 36.643449],
+
+            [114.594969, 36.64463]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "南楼女洗手台",
+        "floor": 150,
+        "center": [114.598895, 36.641822],
+        "centroid": [114.598895, 36.641822],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "女洗手台"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.597103, 36.643018],
+
+            [114.600601, 36.643018],
+
+            [114.600601, 36.640772],
+
+            [114.597103, 36.640772],
+
+            [114.597103, 36.643018]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 118,
+        "name": "118",
+        "floor": 150,
+        "center": [114.600075, 36.638972],
+        "centroid": [114.600075, 36.638972],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "118"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.599506, 36.640565],
+
+            [114.600633, 36.640565],
+
+            [114.600633, 36.637528],
+
+            [114.599506, 36.637528],
+
+            [114.599506, 36.640565]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#02234D",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#8fa1c1",
+        "fill-opacity": 1,
+        "adcode": 11,
+        "name": "南楼无障碍卫",
+        "floor": 150,
+        "center": [114.596256, 36.638447],
+        "centroid": [114.596256, 36.638447],
+        "childrenNum": 20,
+        "level": "district",
+        "acroutes": [100000, 130000, 130400],
+        "parent": {
+          "abbreviation": "无障碍卫"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [114.594981, 36.639497],
+
+            [114.597393, 36.639497],
+
+            [114.597393, 36.637466],
+
+            [114.594981, 36.637466],
+
+            [114.594981, 36.639497]
+          ]
+        ]
+      }
+    }
+  ]
+}

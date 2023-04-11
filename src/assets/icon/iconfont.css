@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2631256 */
+  src: url("//at.alicdn.com/t/font_2631256_kdb29csu2f.woff2?t=1625302893772")
+      format("woff2"),
+    url("//at.alicdn.com/t/font_2631256_kdb29csu2f.woff?t=1625302893772")
+      format("woff"),
+    url("//at.alicdn.com/t/font_2631256_kdb29csu2f.ttf?t=1625302893772")
+      format("truetype"),
+    url("//at.alicdn.com/t/font_2631256_kdb29csu2f.svg?t=1625302893772#iconfont")
+      format("svg");
+}
+.icon-shijingditu:before {
+  content: "\e619";
+}
+
+.icon-dianbiao:before {
+  content: "\ec4d";
+}
+
+.icon-shuibiao:before {
+  content: "\ec67";
+}
+
+.icon-xuexiao_xuexiaoxinxi:before {
+  content: "\e661";
+}
+
+.icon-daxue:before {
+  content: "\e6aa";
+}                            
+
+.icon-shexiangtou:before {
+  content: "\e790";
+}
+
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yincang:before {
+  content: "\e62f";
+}
+
+.icon-xianshi:before {
+  content: "\e6d1";
+}
+
+.icon-number3:before {
+  content: "\e644";
+}
+
+.icon-zifu-num5:before {
+  content: "\e729";
+}
+
+.icon-fanhui:before {
+  content: "\e777";
+}
+
+.icon-gaojing:before {
+  content: "\ec34";
+}
+
+.icon-icon-:before {
+  content: "\e671";
+}
+
+.icon-shuibiaoguohu-:before {
+  content: "\e61f";
+}
+
+.icon-renjunrishenghuoyongshuiliang30:before {
+  content: "\e82f";
+}
+
+.icon-numeric2boxmultipleoutline:before {
+  content: "\e984";
+}
+
+.icon-numeric4boxmultipleoutline:before {
+  content: "\e99e";
+}
+
+.icon-numeric6boxmultipleoutline:before {
+  content: "\e9a4";
+}
+
+.icon-number-b-1:before {
+  content: "\e64a";
+}
+
+.icon-number-b-3:before {
+  content: "\e64c";
+}
+
+.icon-numeric--box-multiple-outline:before {
+  content: "\e816";
+}
+
+.icon-numeric--box-multiple-outline1:before {
+  content: "\e819";
+}
+
+.icon-numeric--box-multiple-outline2:before {
+  content: "\e81c";
+}
+
+.icon-number:before {
+  content: "\e641";
+}
+
+.icon-number1:before {
+  content: "\e642";
+}
+
+.icon-number2:before {
+  content: "\e643";
+}
+
+.icon-zifu-num:before {
+  content: "\e724";
+}
+
+.icon-zifu-num1:before {
+  content: "\e725";
+}
+
+.icon-zifu-num2:before {
+  content: "\e726";
+}
+
+.icon-zifu-num3:before {
+  content: "\e727";
+}
+
+.icon-zifu-num4:before {
+  content: "\e728";
+}
+
+.icon-floor:before {
+  content: "\e605";
+}
+
+.icon-floors:before {
+  content: "\e702";
+}
+
+.icon-floorplan:before {
+  content: "\e8ed";
+}
